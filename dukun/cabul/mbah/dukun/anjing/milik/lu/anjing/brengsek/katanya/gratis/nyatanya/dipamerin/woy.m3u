@@ -108,3 +108,8 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="ent" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymWB4xieNnGyhlP5EWBKJ3g9nzL1rKMkVXw&usqp=CAU" group-title="VISION+",ENT
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="oktv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIgJX-FDYmi2s0jvHxxaiADyDnuhNN3VDUKw&usqp=CAU" group-title="VISION+",OK TV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
