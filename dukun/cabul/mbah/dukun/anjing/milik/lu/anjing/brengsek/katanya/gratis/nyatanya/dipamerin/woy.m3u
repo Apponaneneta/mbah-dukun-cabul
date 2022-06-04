@@ -156,7 +156,7 @@ https://on-load.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="celestialmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="VISION+",CELESTIAL MOVIES
+#EXTINF:-1 tvg-ID="celestialmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8IHMSSIfWvUbEzwXQJpgEVarM6Mnqmlezg&usqp=CAU" group-title="VISION+",CELESTIAL MOVIES
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
