@@ -121,5 +121,5 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="celestialmovies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8IHMSSIfWvUbEzwXQJpgEVarM6Mnqmlezg&usqp=CAU" group-title="VISION+",CELESTIAL MOVIES
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a5f7e52b-1012-489d-8c88-be5624ded39c)/manifest.mpd
+#EXTINF:-1 tvg-ID="hbo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLtxAuaJZxLT3kVgmCA51N9qm3SuSKEiBfzw&usqp=CAU" group-title="VISION+",HBO
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
