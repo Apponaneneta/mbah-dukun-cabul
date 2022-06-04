@@ -93,3 +93,8 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="musictv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR3ZNYYjgmf4zZGawAraf3OmtehMiq1QdCjA&usqp=CAU" group-title="VISION+",MUSICTV
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="visionprime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTQXS9UEwyRl1lULb1o3f42GWje3V2_AlCFg&usqp=CAU" group-title="VISION+",VISION PRIME
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
