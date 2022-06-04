@@ -116,5 +116,5 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="jiansutv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SaPwng3xn8W73HJqAY4Zc5dQ9wKPkfwHVA&usqp=CAU" group-title="VISION+",JIANSU TV
+#EXTINF:-1 tvg-ID="jiangsutv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8SaPwng3xn8W73HJqAY4Zc5dQ9wKPkfwHVA&usqp=CAU" group-title="VISION+",JIANGSU TV
 https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
