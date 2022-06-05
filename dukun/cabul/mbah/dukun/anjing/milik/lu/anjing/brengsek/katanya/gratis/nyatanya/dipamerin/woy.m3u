@@ -293,3 +293,8 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="cgtn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPlUI3NkN8qzS9QLr10c8kAlL-ZVDIVgDFSA&usqp=CAU" group-title="VISION+",CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="nhk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFTF9ZnSXVG_UPzQ3RD4pqvNoKUj8TJ6R0A&usqp=CAU" group-title="VISION+",NHK
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
