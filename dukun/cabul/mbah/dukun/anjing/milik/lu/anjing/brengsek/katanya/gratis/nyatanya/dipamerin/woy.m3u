@@ -258,3 +258,8 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="xingkongtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLb6CakoSn5DbJxJlOxkiDbKyRf_d-2kpHYA&usqp=CAU" group-title="VISION+",XINGKONG TV
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="anhuitv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLb6CakoSn5DbJxJlOxkiDbKyRf_d-2kpHYA&usqp=CAU" group-title="VISION+",ANHUITV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
