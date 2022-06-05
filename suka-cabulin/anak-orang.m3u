@@ -1,6 +1,11 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="a/n" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wXGecm2aRPQM5IRcP-0ftSiYgGQphV2LEA&usqp=CAU" group-title="VISION+",A/N
+https://drive.google.com/file/d/19AImwBbicB6zank39NRmRjf3vnhEs5Sh/view?usp=drivesdk
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIyhPVEo2qGZTmXlP3AS31uSaoUblGzW2Q&usqp=CAU" group-title="VISION+",MNCTV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTM3U
