@@ -303,3 +303,8 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="besmart" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHuX3LHJpCtpocYPNTIkr-Yz4L28Y5ZLh8vA&usqp=CAU" group-title="VISION+",BESMART
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="sctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGwS7p_K4Ce2konGXogUPjPtIPMgQioiJsPw&usqp=CAU" group-title="VISION+",SCTV
+https://bagoltvku.my.id/PUNYA-MVTV/master-24.m3u8
